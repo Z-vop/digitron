@@ -1,0 +1,7 @@
+{
+        playerName: 'Player ' + playerCount.toString(),
+        socketId: socket.id,
+        defense: [["digicoin", 750, 'stable'],["digicoin", 750, 'stable'],["digicoin", 750, 'stable'],["digicoin", 750, 'stable'],["digicoin", 750, 'stable']],
+        offense: [["none", 1, 'stable'],["none", 1, 'stable'],["none", 1, 'stable'],["none", 1, 'stable'],["none", 1, 'stable']],
+        toolLevels: [["virus", 1],["ddos",1],["malware",1],["trojan",1],['brute force',1], ["exploit", 1], ['firewall', 1], ['antivirus', 1], ['scantron', 1], ['encryptor' , 1] ]
+    }
